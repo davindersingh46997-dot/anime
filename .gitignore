@@ -1,0 +1,5 @@
+# Keep development projects and this ignore file at the repository root.
+/*
+!/frontend/
+!/backend/
+!/.gitignore
